@@ -9,7 +9,7 @@
 - :wrench: Next to studying I am working as devops engineer at [wirsindhandwerk](https://github.com/wirsindhandwerk)
 - 💬 Right now my favourite language is [GO](https://github.com/golang/go)
 - :pencil2: Feel free to contribute to my projects
-- :question: Ask me about anything, I am happy to help;
+- :question: Ask me about anything, I am happy to help
 
 **Languages and Tools:** 
 <p>
