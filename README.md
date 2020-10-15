@@ -3,7 +3,7 @@
 
 
 **About me:**
-<img width="50%" align="right" alt="Tims github stats" src="https://github-readme-stats.vercel.app/api?username=tim-koehler&show_icons=true&hide_border=true" />
+<img width="50%" align="right" alt="Tim's github stats" src="https://github-readme-stats.vercel.app/api?username=tim-koehler&show_icons=true&hide_border=true" />
 
 - 👨🏽‍💻 I’m currently studying at the [HTWG](https://github.com/htwg) in Konstanz(Germany)
 - :wrench: Next to studying I am working as devops engineer at [wirsindhandwerk](https://github.com/wirsindhandwerk)
