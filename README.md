@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Hey, I'm Tim, a selfemployed software engineer from Germany.
+## Hey, I'm Tim, a software engineer from Germany.
 
 
 **About me:**
